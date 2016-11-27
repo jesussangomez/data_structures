@@ -1,7 +1,7 @@
 # Data Structures
 
-Data structures in C, Java, Python.
+Data structures in C, C++, Java, Python.
 
 ### Credits
 
-All the Data Structures described here are originally from [GeeksforGeeks](http://www.geeksforgeeks.org/data-structures/).
+All the data structures described here are from [GeeksforGeeks](http://www.geeksforgeeks.org/data-structures/) and they are only here for learning purpose. The C++ data structures are mine based on the C versions.
